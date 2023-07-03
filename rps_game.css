@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to top left ,rgb(167,113,211),white,rgb(167, 113, 211))
+}   
+#player2choice{
+    width: 240px;
+    height: 240px;
+    border: 4px solid black;
+    /* box-shadow: 0 0 60px 2px red; */
+    border-radius:2px;
+    background-color: white;
+    margin-top: 10px;
+}
+#player1choice{
+    width: 240px;
+    height: 240px;
+    border: 4px solid black;
+    background-color: white;
+    margin-top: 10px;
+}
+#arrchoices{
+    width: 240px;
+    height: 80px;
+    margin-right: 12px;
+    /* background-color: blueviolet; */
+    margin: 0 auto;
+    margin-top: 10px;
+    /* background-color: greenyellow; */
+}
+#arrchoices img{
+    width: 70px;
+    height: 80px;
+    border: 2px solid black;
+}
+
